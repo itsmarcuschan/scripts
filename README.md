@@ -1,4 +1,4 @@
-# Scripts d'installation
+# Installation scripts
 
 * Nagios Core
 * OCS-GLPI
